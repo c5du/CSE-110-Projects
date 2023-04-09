@@ -32,4 +32,4 @@ ARM assembly
 - [x] Theory of Computation
 - [ ] Software Engineering
 
-[Go to the top](#Catherine-Du)
+[Go to the top](#catherine-du)
