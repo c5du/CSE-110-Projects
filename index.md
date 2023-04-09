@@ -1,10 +1,10 @@
 
 # Catherine Du
-[Languages](index.md#Some-of-the-languages-I-know-are:)
+[Languages](#some-of-the-languages-i-know-are)
 
-[Projects](index.md#Projects:)
+[Projects](#projects)
 
-[CourseWork](index.md#Relevant-CourseWork:)
+[CourseWork](#relevant-coursework)
 ## Introduction:
 >Hello, I'm a 2<sup>nd</sup> year UCSD student studying computer science, with a cognitive science minor.
 
