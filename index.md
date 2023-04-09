@@ -1,7 +1,10 @@
 
 # Catherine Du
 Introduction:
->Hello, I'm a 2<sup>nd</sup> year UCSD student studying computer science, with a cognitive science minor.![profile](photos/me.jpg)
+>Hello, I'm a 2<sup>nd</sup> year UCSD student studying computer science, with a cognitive science minor.
+
+<img src="photos/me.jpg" alt="profile" width="50%" height="50%">
+
 
 Some of the language I know are:
 ```
